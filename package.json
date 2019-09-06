@@ -1,7 +1,7 @@
 {
   "name": "bitcoind-rpc",
-  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
-  "version": "0.7.0",
+  "description": "Bitcoin Client Library exptended for ZelCash calls to connect to ZelCash via RPC",
+  "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
@@ -22,6 +22,10 @@
     {
       "name": "Braydon Fuller",
       "email": "braydon@bitpay.com"
+    },
+    {
+      "name": "Tadeas Kmenta",
+      "email": "tadeas.kmenta@zel.cash"
     }
   ],
   "keywords": [
@@ -30,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcoind-rpc"
+    "url": "https://github.com/zelcash/bitcoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -49,7 +53,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcoind-rpc/issues"
+    "url": "https://github.com/zelcash/bitcoind-rpc/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcoind-rpc"
+  "homepage": "https://github.com/zelcash/bitcoind-rpc"
 }

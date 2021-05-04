@@ -1,7 +1,7 @@
 bitcoind-rpc.js
 ===============
 
-A client library to connect to ZelCash RPC in JavaScript.
+A client library to connect to Flux RPC in JavaScript.
 
 ## Get Started
 
